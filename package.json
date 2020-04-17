@@ -1,0 +1,17 @@
+{
+  "name": "ymock-json",
+  "version": "1.0.3",
+  "description": "",
+  "main": "mock.js",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mock": "node mock.js"
+  },
+  "author": "minghao.yin",
+  "license": "ISC"
+}
